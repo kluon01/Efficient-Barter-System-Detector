@@ -1,0 +1,6 @@
+yes
+4 1 1.0 0.5
+1 2 1.0 0.9
+2 3 0.8 1.2
+3 4 1.0 1.5
+one kg of product 4 gets 1.0125 kg of product 4 from the above exchange sequence.
