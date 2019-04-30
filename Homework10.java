@@ -10,7 +10,7 @@ import java.util.ArrayList;
 import java.text.DecimalFormat;
 import java.math.RoundingMode;
 
-public class Homework10
+public class BarterSystemDetect
 {
     // Global variables
     static double[][] adjMatrix;
